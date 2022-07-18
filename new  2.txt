@@ -1,0 +1,13 @@
+<?php
+$emp = strip_tags(@$_POST['emp']);
+$gender strip_tags(@$_POST['gender']);
+$age = strip_tags(@$_POST['age']);
+$med = strip_tags(@$_POST['med']);
+$like_most = strip_tags(@$_POST['like_most']);
+$pot = strip_tags(@$_POST['pot']);
+$improve = strip_tags(@$_POST['improve']);
+$future = strip_tags(@$_POST['improve']);
+$choice = strip_tags(@$_POST['choice']);
+$advice = strip_tags(@$_POST['advice']);
+$btn = strip_tags(@$_POST['btn']);
+?>

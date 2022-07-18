@@ -1,0 +1,12 @@
+input[type="button"]{
+border: 1px solid #DCE5EE;
+background-color: #F3F6F9;
+font-size: 12px;
+color: #999;
+padding:3px;
+}
+
+.success_msg{
+border:1px solid white;
+
+}
